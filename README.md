@@ -3,6 +3,10 @@
 
 ![Cool Hurricane](https://i.insider.com/562aab67dd0895f0378b45b0?width=800&format=jpeg&auto=webp)
 
+## Code:
+[Category 5 Scouting App](https://github.com/Category5-Team3489/Category5Scouting)
+[2023 Code](https://github.com/Category5-Team3489/FRC-3489-2023)
+
 ## Courses:
 - [FRCLadder](https://www.frcladder.com/), courtesy of Mentor Alicia.
 
