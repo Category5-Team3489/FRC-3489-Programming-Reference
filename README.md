@@ -6,7 +6,8 @@
 https://docs.wpilib.org/en/stable/index.html
 
 ## Java Learning Resources:
-- https://www.w3schools.com/java/
+- [https://www.w3schools.com/java/](https://www.w3schools.com/java/default.asp)
+- https://introcs.cs.princeton.edu/java/11cheatsheet/
 - https://www.geeksforgeeks.org/java-programming-basics/
 
 ## Code:
@@ -23,3 +24,4 @@ https://docs.wpilib.org/en/stable/index.html
 
 ## Random Links:
 [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
+[VSCode Shortcut Cheatsheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
