@@ -23,5 +23,5 @@ https://docs.wpilib.org/en/stable/index.html
   - FRCLadder is an online platform that provides robotics courses for FIRST Robotics Competition (FRC) teams. Our mission is to empower students and mentors in the FIRST community with the knowledge and skills to excel in the field of robotics.
 
 ## Random Links:
-[Markdown Guide](https://www.markdownguide.org/basic-syntax/)
-[VSCode Shortcut Cheatsheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+- [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
+- [VSCode Shortcut Cheatsheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
