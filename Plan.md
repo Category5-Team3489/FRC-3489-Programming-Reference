@@ -1,5 +1,7 @@
 # Learning plan for new programmers
 
+https://replit.com/@3489-Programmin/JavaBasics#Robot.java
+
 - Go over robot basics:
     - Types of motors
     - Limelight
